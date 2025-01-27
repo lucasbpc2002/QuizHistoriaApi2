@@ -174,7 +174,7 @@ questions = [
         "O que marcou a transição entre a Pré-História e a Idade Antiga? ",
         "options": [
             " Descoberta do fogo", "Domesticação de animais",
-            "Invenção da escrita ", "Uso de ferramentas de pedra polida "
+            "Invenção da escrita", "Uso de ferramentas de pedra polida "
         ],
         "answer":
         "Invenção da escrita"
